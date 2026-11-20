@@ -23,12 +23,12 @@ I work alone with a team of coding agents, so a project that usually needs a sma
 ## Selected work
 
 <p align="center">
-<a href="https://github.com/joooooooooooooooooooopa-cmd/processing-hub"><img src="./assets/card-processing-hub.svg" alt="processing-hub" width="49%"></a>
-<a href="https://github.com/joooooooooooooooooooopa-cmd/merchant-ops-bots"><img src="./assets/card-merchant-ops-bots.svg" alt="merchant-ops-bots" width="49%"></a>
-<a href="https://github.com/joooooooooooooooooooopa-cmd/suflyor"><img src="./assets/card-suflyor.svg" alt="suflyor" width="49%"></a>
-<a href="https://github.com/joooooooooooooooooooopa-cmd/grailert"><img src="./assets/card-grailert.svg" alt="grailert" width="49%"></a>
-<a href="https://github.com/joooooooooooooooooooopa-cmd/domainscan"><img src="./assets/card-domainscan.svg" alt="domainscan" width="49%"></a>
-<a href="https://github.com/joooooooooooooooooooopa-cmd/replly"><img src="./assets/card-replly.svg" alt="replly" width="49%"></a>
+<a href="https://github.com/danila-builds/processing-hub"><img src="./assets/card-processing-hub.svg" alt="processing-hub" width="49%"></a>
+<a href="https://github.com/danila-builds/merchant-ops-bots"><img src="./assets/card-merchant-ops-bots.svg" alt="merchant-ops-bots" width="49%"></a>
+<a href="https://github.com/danila-builds/suflyor"><img src="./assets/card-suflyor.svg" alt="suflyor" width="49%"></a>
+<a href="https://github.com/danila-builds/grailert"><img src="./assets/card-grailert.svg" alt="grailert" width="49%"></a>
+<a href="https://github.com/danila-builds/domainscan"><img src="./assets/card-domainscan.svg" alt="domainscan" width="49%"></a>
+<a href="https://github.com/danila-builds/replly"><img src="./assets/card-replly.svg" alt="replly" width="49%"></a>
 </p>
 
 All repositories are anonymized copies of systems that ran in production. Names, data and credentials are synthetic.
