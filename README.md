@@ -1,14 +1,10 @@
-<p align="center"><img src="./assets/header.svg" alt="Danila builds - I build the software ops teams run on" width="880"></p>
+<p align="center"><img src="./assets/hero.svg" alt="Danila builds. I build the software ops teams run on: bots, dashboards, alerting and AI tooling for support and payment teams." width="880"></p>
 
 I take a manual process in support, payments or sales operations and turn it into a system that runs on its own: the bot people talk to, the database behind it, the dashboard the manager opens in the morning and the alert that fires before a customer notices.
 
 I work alone with a team of coding agents, so a project that usually needs a small department ships in weeks.
 
-<p align="center"><img src="./assets/terminal.svg" alt="whoami: Danila. Shipped: processing-hub, merchant-ops-bots, suflyor, grailert" width="880"></p>
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="880"></p>
-
-## What I can build for you
+<p align="center"><img src="./assets/walk-build.svg" alt="What I can build for you" width="880"></p>
 
 | You have | You get |
 |---|---|
@@ -18,9 +14,7 @@ I work alone with a team of coding agents, so a project that usually needs a sma
 | Chats nobody has time to review | Automatic quality scoring of every conversation against your own checklist |
 | A routine that eats hours every week | A bot or a small internal tool that does it, with an audit trail |
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="880"></p>
-
-## Selected work
+<p align="center"><img src="./assets/walk-work.svg" alt="Selected work" width="880"></p>
 
 <p align="center">
 <a href="https://github.com/danila-builds/processing-hub"><img src="./assets/card-processing-hub.svg" alt="processing-hub" width="49%"></a>
@@ -33,19 +27,17 @@ I work alone with a team of coding agents, so a project that usually needs a sma
 
 All repositories are anonymized copies of systems that ran in production. Names, data and credentials are synthetic.
 
-<p align="center"><img src="./assets/divider.svg" alt="" width="880"></p>
-
-## How a project goes
+<p align="center"><img src="./assets/walk-how.svg" alt="How a project goes" width="880"></p>
 
 1. A short call or a written brief: what hurts and how you will know it is fixed.
 2. A fixed scope and price for the first working version, usually one to three weeks.
 3. You get the code, the deployment on your own server and a runbook. It keeps working without me.
 
-## Contact
+<p align="center"><img src="./assets/walk-talk.svg" alt="Let's talk" width="880"></p>
 
 <p>
-<a href="https://t.me/CRM_AI_in"><img src="./assets/btn-telegram.svg" alt="Telegram @CRM_AI_in" height="52"></a>
-<a href="mailto:danilahhh4@gmail.com"><img src="./assets/btn-email.svg" alt="danilahhh4@gmail.com" height="52"></a>
+<a href="https://t.me/CRM_AI_in"><img src="./assets/btn-telegram.svg" alt="Telegram @CRM_AI_in" height="62"></a>
+<a href="mailto:danilahhh4@gmail.com"><img src="./assets/btn-email.svg" alt="danilahhh4@gmail.com" height="62"></a>
 </p>
 
 Tbilisi time, UTC+4. I reply within one working day. English and Russian.

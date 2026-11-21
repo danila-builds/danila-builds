@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 262 52" width="262" height="52" role="img" aria-label="Telegram  @CRM_AI_in">
-<style>.tw{animation:tw 2.2s ease-in-out infinite;transform-origin:30px 26px}@keyframes tw{0%,100%{transform:scale(.8) rotate(0deg)}50%{transform:scale(1.15) rotate(72deg)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
-<rect x="1.5" y="1.5" width="259" height="49" rx="24" fill="#c65fd6" stroke="#12030f" stroke-width="3"/>
-<polygon points="30.0,15.0 32.9,22.0 40.5,22.6 34.7,27.5 36.5,34.9 30.0,30.9 23.5,34.9 25.3,27.5 19.5,22.6 27.1,22.0" fill="#12030f" class="tw"/>
-<text x="52" y="32" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="16" fill="#12030f">Telegram  @CRM_AI_in</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 62" width="300" height="62" role="img" aria-label="TELEGRAM  @CRM_AI_in">
+<style>.s{animation:s 2.6s linear infinite;transform-origin:34px 27px}@keyframes s{to{transform:rotate(360deg)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="9" y="11" width="286" height="44" fill="#2a0a2c"/>
+<rect x="4" y="5" width="286" height="44" fill="#c65fd6" stroke="#2a0a2c" stroke-width="4" stroke-linejoin="round"/>
+<g class="s"><polygon points="34.0,16.0 36.9,23.0 44.5,23.6 38.7,28.5 40.5,35.9 34.0,31.9 27.5,35.9 29.3,28.5 23.5,23.6 31.1,23.0" fill="#f6e8f8" stroke="#2a0a2c" stroke-width="2.5" stroke-linejoin="round"/></g>
+<text x="56" y="35" font-family="Impact,'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#2a0a2c" letter-spacing="1">TELEGRAM  @CRM_AI_in</text>
 </svg>
