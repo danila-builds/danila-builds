@@ -27,7 +27,7 @@ I work alone with a team of coding agents, so a project that usually needs a sma
 
 All repositories are anonymized copies of systems that ran in production. Names, data and credentials are synthetic.
 
-**This is the small public part.** Most of what I build stays in private repositories: support quality control that scores every chat, a live two-way chat translator, retention and VIP tooling, internal hubs with roles and payroll logic. If you want to see how one of them works, write me and I will walk you through a demo.
+**This is the small public part.** Most of what I build stays in private repositories under NDA. If your task looks like something here, write me: I will tell you what I have already built in that area and show a demo on synthetic data.
 
 Some interfaces and prompts in these repos are in Russian, because that is where they ran. Code, docs and commits are in English.
 
