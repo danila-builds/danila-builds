@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 252" width="432" height="252" role="img" aria-label="processing-hub: Ops platform for a payment processing team: merchant CRM with a Mini App, 10 bots, 48 API endpoints, 296 automated checks.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 258" width="432" height="258" role="img" aria-label="processing-hub: Ops platform for a payment processing team: merchant CRM with a Mini App, 10 bots, 48 API endpoints, 296 automated checks.">
 <style>
 
 .leg{animation:leg .46s ease-in-out infinite alternate}
@@ -40,12 +40,12 @@
 <polyline points="-5,-27.6 -3,-25.4 -1,-27.2 1,-25.2 3,-27.2 5,-25.6" fill="none" stroke="#2a0a2c" stroke-width="1.4"/>
 </g></g></g></g>
 <g transform="translate(0 50)">
-<polygon points="18,15 424,19 422,194 15,191" fill="#2a0a2c"/><polygon points="11,8 417,12 415,187 8,184" fill="#f6e8f8"/><polygon points="11,8 417,12 415,187 8,184" fill="url(#ht)"/><polygon points="11,8 417,12 415,187 8,184" fill="none" stroke="#2a0a2c" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="18,15 424,19 422,200 15,197" fill="#2a0a2c"/><polygon points="11,8 417,12 415,193 8,190" fill="#f6e8f8"/><polygon points="11,8 417,12 415,193 8,190" fill="url(#ht)"/><polygon points="11,8 417,12 415,193 8,190" fill="none" stroke="#2a0a2c" stroke-width="5" stroke-linejoin="round"/>
 <rect x="24" y="30" width="243" height="38" fill="#c65fd6" stroke="#2a0a2c" stroke-width="3.5" transform="rotate(-1.5 24 49)"/>
 <text x="37" y="59" font-family="Impact,'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="25" fill="#2a0a2c" letter-spacing="1" transform="rotate(-1.5 24 49)">PROCESSING-HUB</text>
 <g transform="translate(0 -22)"><text x="30" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#2a0a2c">Ops platform for a payment processing team:</text><text x="30" y="134" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#2a0a2c">merchant CRM with a Mini App, 10 bots,</text><text x="30" y="156" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#2a0a2c">48 API endpoints, 296 automated checks.</text></g>
-<line x1="30" y1="140" x2="380" y2="140" stroke="#2a0a2c" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
-<text x="30" y="163" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#2a0a2c" letter-spacing=".6">PYTHON / FASTAPI / REACT / POSTGRES</text>
-<g class="arr"><path d="M354,158 h20 v-7 l14,11 l-14,11 v-7 h-20 z" fill="#c65fd6" stroke="#2a0a2c" stroke-width="3" stroke-linejoin="round"/></g>
+<line x1="30" y1="149" x2="380" y2="149" stroke="#2a0a2c" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+<text x="30" y="170" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#2a0a2c" letter-spacing=".6">PYTHON / FASTAPI / REACT / POSTGRES</text>
+<g class="arr"><path d="M354,165 h20 v-7 l14,11 l-14,11 v-7 h-20 z" fill="#c65fd6" stroke="#2a0a2c" stroke-width="3" stroke-linejoin="round"/></g>
 </g>
 </svg>
