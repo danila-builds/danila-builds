@@ -27,6 +27,10 @@ I work alone with a team of coding agents, so a project that usually needs a sma
 
 All repositories are anonymized copies of systems that ran in production. Names, data and credentials are synthetic.
 
+**This is the small public part.** Most of what I build stays in private repositories: support quality control that scores every chat, a live two-way chat translator, retention and VIP tooling, internal hubs with roles and payroll logic. If you want to see how one of them works, write me and I will walk you through a demo.
+
+Some interfaces and prompts in these repos are in Russian, because that is where they ran. Code, docs and commits are in English.
+
 <p align="center"><img src="./assets/walk-how.svg" alt="How a project goes" width="880"></p>
 
 1. A short call or a written brief: what hurts and how you will know it is fixed.
@@ -40,4 +44,6 @@ All repositories are anonymized copies of systems that ran in production. Names,
 <a href="mailto:danilahhh4@gmail.com"><img src="./assets/btn-email.svg" alt="danilahhh4@gmail.com" height="62"></a>
 </p>
 
-Tbilisi time, UTC+4. I reply within one working day. English and Russian.
+**Write in any language.** I run two-way translation on every channel I use, so you write in yours and get the answer in yours.
+
+Tbilisi time, UTC+4. I reply within one working day.
